@@ -1,1 +1,2 @@
-# SM1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
